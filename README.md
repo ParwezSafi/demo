@@ -1,4 +1,4 @@
 # demo
 
-bizhbalaqo
+bizhbalaqo.
 
